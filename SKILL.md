@@ -205,3 +205,7 @@ cd /path/to/generated-skill && zip -r /mnt/user-data/outputs/ef-system.skill SKI
 - **The generated skill should feel like theirs**, not like a template. Specificity is what makes it sticky.
 - **The self-modification loop is the safety net.** Onboarding doesn't have to be perfect — it just has to be good enough to start. The SKILL UPDATE pattern handles everything the interview missed.
 - **Don't include features they didn't ask for.** If they didn't mention meal planning, don't add meal planning. If they didn't mention a grow operation, don't add plant care reminders. The system expands through use, not through anticipation.
+
+---
+
+*Created by Ian Hunter ([DoxxedDoxie](https://github.com/DoxxedDoxie/ef-skill)) — Licensed under CC BY 4.0*
