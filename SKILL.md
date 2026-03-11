@@ -1,9 +1,3 @@
-<!--
-  Executive Function Skill System
-  Created by Ian Hunter
-  https://github.com/DoxxedDoxie/ef-skill
-  License: CC BY 4.0
--->
 ---
 name: ef-starter
 description: Executive function support system builder. Use this skill when someone wants help managing tasks, staying on track, planning their day, or building a productivity system — especially if they mention ADHD, executive dysfunction, trouble starting tasks, losing track of things, or feeling overwhelmed by to-do lists. Also trigger when someone says "set up my system", "help me get organized", "I need a planning system", "checking in", "what should I work on", or references wanting Claude to help them stay accountable. If no personalized executive-function skill exists yet, this skill runs onboarding to build one. If the person already has a generated EF skill, defer to that skill instead.
